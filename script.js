@@ -11,7 +11,7 @@
       sessionStorage.setItem("email", email);
       sessionStorage.setItem("whatsapp", whatsapp);
 
-      window.location.href = "index.html"; // redirection vers le quiz
+      window.location.href = "Quiz.html"; // redirection vers le quiz
     };
 
 let currentQuestionIndex = 0;
